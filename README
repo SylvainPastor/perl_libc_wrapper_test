@@ -1,0 +1,6 @@
+Build this Perl module with:
+
+$ perl Makefile.PL
+$ make
+$ make test
+(Try "make test TEST_VERBOSE=1" for verbose output.)

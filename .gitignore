@@ -30,3 +30,12 @@
 
 # Debug files
 *.dSYM/
+
+# Perl generated files
+./Makefile
+blib/*
+*.yml
+*.bs
+pm_to_blib
+*.json
+
